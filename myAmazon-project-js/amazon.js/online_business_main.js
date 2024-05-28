@@ -228,7 +228,17 @@ let paymentReceive=header_div.dataset.paymentReceive;
 let userImpormationn=[];
 
 
-let userImpormation=[];
+let userImpormation=[
+    {
+      "check":"I_createAccountImpormation",
+      "emailAddress":"abdullahiyahaya584@gmail.com",
+      "fullName":"yahaya abdullahi",
+      "password":"yahaya****",
+      "phoneNumber":"09162820838",
+      "rank":"member",
+      "userAgent":"12345E",
+      "userId":"12345E"
+    }]
 
 let userImpormation_database=[];
 
